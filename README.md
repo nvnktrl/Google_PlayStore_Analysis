@@ -1,4 +1,4 @@
-# google_playstore_analysis
+# Google_Playstore_Analysis
 Implemented Data Mining and EDA to achieve key factors and significant relationships between the variables for the android market.
 
 # Problem Statement:
